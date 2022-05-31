@@ -1,5 +1,5 @@
 body {
-    background-color: #F9F0F9;
+    background: linear-gradient( pink, purple);
     font-family: 'Caveat';
     margin: 20px;
 }
