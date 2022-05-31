@@ -1,0 +1,26 @@
+body {
+    background-color: #F9F0F9;
+    font-family: 'Caveat';
+    margin: 20px;
+}
+
+header {
+    font-family: 'Square Peg', cursive;
+    font-size: 30px;
+}
+
+nav {
+    font-family: 'Truculenta';
+    color: #D4A373;
+    font-size: 20px;
+}
+
+footer {
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+main {
+    font-family: 'Square Peg', cursive;
+    font-size: 30px;
+}
