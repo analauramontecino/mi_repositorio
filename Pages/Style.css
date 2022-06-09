@@ -1,7 +1,7 @@
 body {
-    background-color: #e6d1b7;
-    font-family: 'Caveat';
-    margin: 20px;
+    background-color: #f0ece9;
+    font-family: 'square peg;' cursive;
+    margin: none;
 }
 
 header {
@@ -16,6 +16,7 @@ nav {
 }
 
 footer {
+    font-family: 'Truculenta' ;
     font-weight: lighter;
     font-size: 20px;
 }
@@ -23,4 +24,45 @@ footer {
 main {
     font-family: 'Square Peg', cursive;
     font-size: 30px;
+}
+
+.titulo{
+    font-family: 'Square Peg', cursive;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.menu{
+    display: flex;
+    justify-content: space-around;    
+    text-decoration: none;
+}
+
+section{
+    font-family: 'Truculenta';
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+}
+.macrame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.limpieza{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.artesanias{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.velas{
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
